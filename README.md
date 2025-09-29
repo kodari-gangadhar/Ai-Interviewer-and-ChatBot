@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-Experience the application live: [https://furqan-ai-interviewer-chatbot.netlify.app](https://furqan-ai-interviewer-chatbot.netlify.app)
+Experience the application live: [https://swipe-ai-interviewer.gangadharkodari966.vercel.app](https://swipe-ai-interviewer.gangadharkodari966.vercel.app)
 
 ## ✨ Features
 
@@ -39,7 +39,7 @@ Experience the application live: [https://furqan-ai-interviewer-chatbot.netlify.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Hafiz-Muhammad-Furqan/Ai-Interviewer-and-ChatBot.git
+   git clone https://github.com/gangadharkodari966/Swipe-AI-Interviewer.git
    cd AI-Interviewer-and-ChatBot
    ```
 
@@ -135,5 +135,5 @@ Contributions are welcome! Please follow these steps:
 Got questions or suggestions? Feel free to:
 
 - Open an issue in this repo
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/hafiz-muhammad-furqan) or [hafizfurqan.dev@gmail.com](mailto:hafizfurqan.dev@gmail.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/kodari-gangadhar-860158315/) or [gangadharkodari966@gmail.com](mailto:gangadharkodari966@gmail.com)
 - Star the repo if you found it helpful!
